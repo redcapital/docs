@@ -49,7 +49,7 @@
       },
       {
         "tab": "API reference",
-        "openapi": "api-reference/openapi.json"
+        "openapi": "https://deviantart.mintlify.app/api-reference/openapi.json"
       }
     ],
     "global": {
